@@ -1,0 +1,15 @@
+{
+  "name": "rock-paper-scissor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Munna Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.2.2",
+    "rock-paper-scissor": "file:"
+  }
+}
